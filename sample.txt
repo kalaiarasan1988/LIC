@@ -1,1 +1,4 @@
 This is my sample code. this is for learning code.
+git init
+git add remote origin
+git commit
