@@ -1,1 +1,2 @@
-This is my sample code. this is for learning code.
+This is my sample code. this is for learning GIT.
+This is my first GIT learning tutorial.
